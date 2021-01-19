@@ -1,0 +1,77 @@
+#main{
+  width: 1690px;
+  height: 750px;
+  background: rgb(255, 255, 255);
+  }
+  #log{
+  width: 825px;
+  height: 700px;
+  background: rgb(255, 255, 255);
+  margin: 10px 412.5px;
+  }
+  img{
+    width:190px;
+    margin-left:312.5px ;
+  }
+  #p1{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    margin-left:265px;
+    font-size: 37px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    
+  }
+  #t1{
+    width:600px;
+    height: 45px;
+    margin-left: 110px;
+    border: none;
+    outline: none;
+    background-color: whitesmoke;
+    border-radius: 15px;
+  }
+  
+  #t2{
+    width:600px;
+    height: 45px;
+    margin-left: 110px;
+    border: none;
+    outline: none;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    border-radius: 15px;
+  }
+  #t3{
+    width:610px;
+    height: 45px;
+    margin-left: 110px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    border-radius: 15px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background:rgb(29, 161, 242);
+    font-size: 18px;
+  }
+  ::placeholder{
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 10px;
+    word-spacing: 2px;
+  }
+  #p6{
+    margin-left: 300px;
+    word-spacing: 2px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    color:rgb(29, 161, 242);
+  }
+  #a2{
+    margin-left: 10px;
+  }
+  a:link{
+  olor: rgb(29, 161, 242) ;
+}
+  a:visited{
+  color: rgb(29, 161, 242) ;
+}

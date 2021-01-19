@@ -1,0 +1,97 @@
+#main{
+  width: 1690px;
+  height: 750px;
+  background: rgb(255, 255, 255);
+  }
+#sign{
+  width: 825px;
+  height: 740px;
+  background: rgb(255, 255, 255);
+  margin: 10px 412.5px;
+  }
+img{
+    width:150px;
+    margin-left:312.5px ;
+  }
+#join{
+    font-size:35px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+  }
+#N1{
+      width: 550px;
+      height: 40px;
+      border-color: rgb(245, 240, 240);
+  }
+#N1:focus-visible{
+      background: whitesmoke;
+  }
+#N2{
+      width: 550px;
+      height: 40px;
+      border-color: rgb(245, 240, 240);
+      margin-top: 10px;
+  }
+#N2:focus-visible{
+      background: whitesmoke;
+  }
+#N3{
+      width: 550px;
+      height: 40px;
+      border-color: rgb(245, 240, 240);
+      margin-top: 10px
+  }
+#N3:focus-visible{
+      background: whitesmoke;
+  }
+#N4{
+      margin-top: 15px;
+  }
+#N4:focus-visible{
+      background: whitesmoke;
+  }
+::placeholder{
+    font-size: 17px;
+    font-weight: 400;
+    padding-left: 10px;
+    word-spacing: 2px;
+  }
+#write1{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2.5px;
+    letter-spacing: 1px;
+    font-size: 18px;
+  }
+a:link{
+    color: rgb(29, 161, 242) ;
+  }
+a:visited{
+    color: rgb(29, 161, 242) ;
+  }
+#N5{
+      width: 560px;
+      height: 50px;
+      margin-top: 20px;
+      font-size: 19px;
+      font-weight: bolder;
+      color: white;
+      background: rgb(29, 161, 242);
+      border: none;
+      outline: none;
+      border-radius: 20px;
+  }
+#write2{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+#write3{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-size: 18px;
+  }
