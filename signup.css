@@ -14,16 +14,22 @@ body{
   margin-left: 40px;
   }
 img{
-    width:100px;
-    height: 100px;
+    width:90px;
+    height: 90px;
+    position: absolute;
+    top: 0px;
+    
+
+    
     
   }
 #join{
-    margin-top: 0;
-    font-size:35px;
+    margin-top: 90px;
+    font-size:30px;
     font-weight: bolder;
     word-spacing: 2px;
     letter-spacing: 2px;
+   
   }
 #N1{
   min-width: 80%;
