@@ -3,7 +3,7 @@ body{
   padding: 0;
   background-size: cover;
   background-position: center;
-  font-family: sans-serif;
+  font-family: 'Arial Narrow';
 
   }
 #main{
@@ -61,14 +61,21 @@ body{
     border: none;
     outline: none;
     border-radius: 20px;
-    font-family:  'Arial Narrow', Arial, sans-serif;
     color: white;
     background:rgb(29, 161, 242);
     font-size: 1.125rem;
+    
+
+  }
+  input[type="text"], input[type="password"]{
+    padding-left: 15px;
+    background-color: none;
+    
   }
   ::placeholder{
     padding-left: 15px;
   }
+  
   #p6{
     
     margin-top: 0;
