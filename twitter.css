@@ -21,56 +21,7 @@ body{
  
  
 }
-#log{
-  width: 100%;
-  height: 50%;
-  margin-top: 10px ;
-  
-}
-#t1{
-  width: 250px;
-  height: 40px;
-  border: none;
-  outline:none;
-  background: whitesmoke;
-  border-bottom: 2px solid black;
-  margin-left: 2%;
-  
-}
 
-#t2{
-  width: 250px;
-  height: 40px;
-  border: none;
-  outline:none;
-  background: whitesmoke;
-  border-bottom: 2px solid black;
-  margin-left: 5px;
-}
-#t3{
-  margin-left: 7px;
-  height: 27px;
-  width: 63px;
-  border-radius: 15px;
-  border-color: rgb(29, 161, 242);
-  color: rgb(29, 161, 242) ;
-  outline: none;
-}
-::placeholder{
-  padding-left: 10px;
-  word-spacing: 2px;
-}
-#p1{
-  color: rgb(29, 161, 242) ;
-  word-spacing: 3px;
-  margin-left: 300px;
-}
-a:link{
-color: rgb(29, 161, 242) ;
-}
-a:visited{
-color: rgb(29, 161, 242) ;
-}
 #sign{
   max-width: 60%;
   min-width: 70%;
@@ -89,14 +40,16 @@ width: 100px;
 height:100px;
 position: absolute;
 left: calc(50% - 50px);
+bottom: 100%;
+
 
 }
 #p2{
-font-size: 35px;
+font-size: 30px;
 font-weight: bolder;
 letter-spacing: 2px;
 word-spacing: 7px;
-padding-top: 60px;
+padding-top: 40px;
 text-align: center;
 
 }
